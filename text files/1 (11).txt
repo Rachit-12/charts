@@ -1,0 +1,16 @@
+graph titled: "Contribution to global growth (%)" according to the World Economic Forum [1]. The y-axis shows the percentage contribution to global growth, while the x-axis shows different economies or economic regions. The data points are labelled with the following:
+
+2010-19 average: This likely shows the average contribution to global growth between 2010 and 2019.
+2022e: This refers to an estimate for 2022.
+2023f: This refers to a forecast for 2023
+2024f: This refers to a forecast for 2024.
+Key observations from the graph:
+
+The United States is the largest contributor to global growth, with a contribution of 4% according to the forecast for 2024.
+Other major contributors to global growth include the Euro area, China, and India.
+Here are some additional details from the graph:
+
+The contribution of the United States to global growth is expected to decline slightly between 2023 and 2024.
+The contribution of China is also expected to decline slightly between 2023 and 2024.
+The contribution of the Euro area is expected to increase slightly between 2023 and 2024.
+The contribution of India is expected to increase slightly between 2023 and 2024.
