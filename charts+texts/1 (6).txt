@@ -1,6 +1,0 @@
-a graph showing the growth of PBBIT, which stands for Profit Before Interest and Tax.  The y-axis is labeled "PBDIT (Crores)" and the x-axis is labeled "FY," which likely refers to fiscal year. The data points show that PBBIT has increased over the five years shown on the graph, from FY 2019 to FY 2023.
-
-Here are some additional observations that can be made from the graph:
-
-The largest increase in PBBIT occurred between FY 2020 and FY 2021.
-PBBIT has fluctuated somewhat from year to year, but the overall trend is positive.
