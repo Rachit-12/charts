@@ -1,0 +1,9 @@
+ a line graph showing trends in fatty alcohol prices in the United States according to the information presented in the graph. The y-axis is labeled "Fatty Alcohol Prices (USD/MT)" and the x-axis is labeled "Quarters". Here "MT" likely refers to metric tons.
+
+The data points show that fatty alcohol prices have been increasing steadily over the quarters shown on the graph, from Q4 2020 to Q3 2023.
+
+It is important to note that the graph does not provide any information about the cause of the increase in fatty alcohol prices. However, here are some possible explanations that you can find in other sources:
+
+Increased demand: Fatty alcohols are used in a variety of products, such as detergents, lubricants, and personal care products. If demand for these products has been increasing, this could have led to an increase in the demand for fatty alcohols and an increase in prices.
+Supply chain disruptions: The COVID-19 pandemic has caused disruptions to global supply chains. This could have made it more difficult for producers of fatty alcohols to obtain the raw materials they need, which could have led to an increase in prices.
+Rising input costs: The prices of the raw materials used to produce fatty alcohols may have increased. This could be due to factors such as higher oil prices or higher transportation costs.

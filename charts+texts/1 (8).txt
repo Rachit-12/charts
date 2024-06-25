@@ -1,0 +1,12 @@
+ is a line graph showing the PBIT (Profit Before Interest and Tax) as a percentage of sales. The y-axis is labeled "PBIT AS % OF SALES" and the x-axis is labeled "FY," which likely refers to fiscal year. The data points show that PBIT as a percentage of sales has fluctuated somewhat over the five years shown on the graph, from FY 2019 to FY 2023.
+
+In FY 2019, PBIT was 14.1% of sales.
+It then decreased to 12.2% of sales in FY 2020.
+There was a slight increase to 11.2% of sales in FY 2021.
+It remained flat at 11.2% of sales in FY 2022.
+PBIT then dipped slightly to 9.4% of sales in FY 2023.
+Without more information about the company or industry that the graph represents, it is difficult to say for sure what is causing the fluctuations in PBIT as a percentage of sales. However, some possible explanations include:
+
+Changes in revenue: If the company's revenue has been increasing, but its expenses have been increasing at an even faster rate, then PBIT as a percentage of sales will decline.
+Changes in cost of goods sold: The cost of goods sold (COGS) is a direct expense that a company incurs in producing the goods or services that it sells. If the COGS has been increasing, then PBIT as a percentage of sales will decline.
+Changes in operating expenses: Operating expenses are the indirect costs of running a business, such as rent, salaries, and marketing. If operating expenses have been increasing, then PBIT as a percentage of sales will decline.

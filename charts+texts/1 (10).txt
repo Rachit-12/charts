@@ -1,0 +1,13 @@
+The image you sent is a graph of inflation and consumer prices. The y-axis shows the annual percentage increase in consumer prices, and the x-axis shows years from 1980 to 2020. The title of the graph is "Inflation, consumer prices (annual %)". The data source is cited as "Worldbank.org"
+
+The graph shows that inflation fluctuated considerably  between 1980 and 2020. Here are some specific observations about the inflation rate over that period:
+
+There was a period of high inflation in the early 1980s, with inflation reaching a peak of around 14% in 1980.
+Inflation then declined steadily throughout the 1980s and 1990s, reaching a low of around 2% in 2000.
+Inflation rose again in the early 2000s, but then fell back down to around 2% in 2010.
+Since 2010, inflation has remained relatively low.
+Possible explanations for the changes in inflation over time:
+
+Government policies: Governments can use a variety of policies to influence inflation, such as monetary policy and fiscal policy. For example, a central bank can raise interest rates to slow down inflation.
+Energy prices: Energy prices can have a significant impact on inflation. For example, a sharp increase in oil prices can lead to higher inflation across the economy.
+Supply and demand: Inflation can also be caused by changes in supply and demand. For example, if there is a sudden shortage of a good or service, this can lead to higher prices and inflation.

@@ -1,0 +1,24 @@
+The image you sent is a graph titled: "Exchange-rate adjusted inflation rates across MENA (%)" [1]. The y-axis shows the inflation rate, and the x-axis shows various Middle Eastern and North African countries (MENA). The data source for the graph is not shown in the image.
+
+The graph shows the average exchange rate adjusted inflation rates in MENA countries between October 2021 and December 2022. Here are some key observations from the graph:
+
+The inflation rate varies considerably across the countries shown.
+The highest inflation rate is in Iran (IRN), at around 52%.
+The lowest inflation rate is in Oman (OMN), at around 1%.
+The graph also shows inflation rates for the following countries:
+
+DJI (likely Djibouti)
+JOR (Jordan)
+IRQ (Iraq)
+OMN (Oman)
+SAU (Saudi Arabia)
+BHR (Bahrain)
+KWT (Kuwait)
+ARE (United Arab Emirates)
+QAT (Qatar)
+PSE (Palestine)
+MAR (Morocco)
+TUN (Tunisia)
+DZA (Algeria)
+EGY (Egypt)
+LBN (Lebanon)

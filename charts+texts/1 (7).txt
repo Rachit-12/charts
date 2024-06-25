@@ -1,0 +1,13 @@
+ a line graph showing basic earnings per share and total dividend per share. The y-axis is labeled  "Basic earnings & total dividend per share (₹)" and the x-axis is labeled "FY" which likely refers to fiscal year.
+
+Basic earnings per share (EPS): This is the amount of money that each shareholder of a company receives from the company's profits after all expenses have been paid. It is calculated by dividing the company's net income by the number of outstanding shares. In the graph, the basic EPS is represented by the blue line.
+
+Total dividend per share: This is the amount of money that a company pays out to its shareholders per share of stock. Dividends are not mandatory, and a company's board of directors decides whether or not to pay a dividend, and how much to pay. In the graph, the total dividend per share is represented by the orange line.
+
+The graph shows that the basic earnings per share has fluctuated somewhat over the five years shown, from FY 2019 to FY 2023. It reached a high of ₹107.5 in FY 2023. The total dividend per share has also fluctuated over the same period, but it has generally been increasing. It reached a high of ₹22.0 in FY 2023.
+
+Here are some additional observations that can be made from the graph:
+
+The total dividend per share has not always been paid out of the company's basic earnings per share. For example, in FY 2019, the total dividend per share was ₹8.0, while the basic earnings per share was only ₹53.9. This suggests that the company may have paid out some of its retained earnings as dividends in that year.
+
+The company's payout ratio  - the proportion of its earnings that it pays out as dividends - has increased over the five years shown on the graph. This suggests that the company is becoming more confident in its future profitability and is more willing to share its profits with shareholders.
